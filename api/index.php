@@ -22,6 +22,7 @@ $storagePath = getenv('APP_STORAGE_PATH') ?: '/tmp/demplane-storage';
 
 foreach ([
     'app/public',
+    'cache',
     'framework/cache/data',
     'framework/sessions',
     'framework/views',

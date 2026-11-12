@@ -27,3 +27,6 @@ composer.phar
 *_err.txt
 *_error.txt
 *_output.txt
+
+.vercel
+.env*
